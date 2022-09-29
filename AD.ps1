@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Import du module AD
 Import-Module ActiveDirectory
 
@@ -99,3 +100,6 @@ try{
     Write-Error "Problème avec la création de l'utilisateur."
     Write-Error $Error[0] 
 }
+=======
+﻿
+>>>>>>> features2
