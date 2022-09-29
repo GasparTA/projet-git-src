@@ -1,5 +1,5 @@
 print ("Bienvenue dans notre script")
-print ("ce script va nous permettre d'avoir la liste des nombres premier entre 1 et 10 000")
+print ("ce script va nous permettre d'avoir la liste des nombres premier entre 1 et 100 000")
 premier =[]
 
 for n in range(1,100000 + 1):
